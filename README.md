@@ -6,7 +6,7 @@ Yunseok Yang, Eunjin Son, Sang Jun Lee
 
 ---
 
-## 🚀 News
+## ✨ News
 
 - **[2026-06]** Paper accepted to **ECCV 2026**! Camera-ready version and code are currently in preparation.
 
