@@ -1,6 +1,6 @@
-### PDF-Omni: Poincaré Dual Disk Distortion Field-based Recurrent Update for Omnidirectional Stereo Matching
+# PDF-Omni: Poincaré Dual Disk Distortion Field-based Recurrent Update for Omnidirectional Stereo Matching
 
-**ECCV 2026**
+## **ECCV 2026**
 
 Yunseok Yang, Eunjin Son, Sang Jun Lee
 
