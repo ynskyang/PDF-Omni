@@ -2,6 +2,8 @@
 
 ### **ECCV 2026**
 
+---
+
 Yunseok Yang, Eunjin Son, Sang Jun Lee
 
 ---
