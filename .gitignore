@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+checkpoints/
+runs/
+results/
+*.log
+*.status
